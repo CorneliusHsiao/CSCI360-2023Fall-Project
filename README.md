@@ -1,4 +1,4 @@
-# CSCI360-2023Fall-Project-Solutions
+# CSCI360-2023Fall-Project
 
 ## Installation
 If you want to create a brand new environment for project, use commands:
